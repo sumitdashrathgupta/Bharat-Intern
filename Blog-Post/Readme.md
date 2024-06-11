@@ -19,7 +19,7 @@ Follow the steps below to get the Blog Website project up and running locally:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/HimanshuMohanty-Git24/Bharart_Intern_Task.git
+    git clone https://github.com/sumitdashrathgupta/Bharat-Intern/tree/main/Blog-Post
     ```
 
 2. Navigate to the Blog Website project:
@@ -52,10 +52,7 @@ Follow the steps below to get the Blog Website project up and running locally:
 - [EJS](https://ejs.co/)
 - Other dependencies can be found in the `package.json` file.
 
-## LinkedIn Post
 
-Check out the LinkedIn post for this project [here](https://www.linkedin.com/posts/himanshumohanty_bharatintern-fullstackdevelopment-webdevelopment-activity-7146180423738400768-z0GJ?utm_source=share&utm_medium=member_desktop).
-
-Feel free to connect with me on LinkedIn: [Himanshu Mohanty](https://www.linkedin.com/in/himanshumohanty/)
+Feel free to connect with me on LinkedIn: [Himanshu Mohanty](https://www.linkedin.com/in/sumitgupta150/)
 
 Happy coding! 🌐✨

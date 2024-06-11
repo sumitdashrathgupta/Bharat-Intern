@@ -19,7 +19,7 @@ Follow the steps below to get the Registration Form project up and running local
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/HimanshuMohanty-Git24/Bharart_Intern_Task.git
+    git clone https://github.com/sumitdashrathgupta/Bharat-Intern/tree/main/Registation_Form
     ```
 
 2. Navigate to the Registration Form project:
@@ -49,10 +49,7 @@ Follow the steps below to get the Registration Form project up and running local
 - [MongoDB](https://www.mongodb.com/)
 - Other dependencies can be found in the `package.json` file.
 
-## LinkedIn Post
 
-Check out the LinkedIn post for this project [here](https://www.linkedin.com/posts/himanshumohanty_bharatintern-fullstackdevelopment-webdevelopment-activity-7146179379029491712-o3lx?utm_source=share&utm_medium=member_desktop).
-
-Feel free to connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/himanshumohanty/)
+Feel free to connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sumitgupta150/)
 
 Happy coding! 🚀

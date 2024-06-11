@@ -30,6 +30,6 @@ To explore the code and try out the projects locally, follow the instructions in
 
 Stay tuned for more updates and tasks as I progress through the Bharat Intern Full Stack Web Development Virtual Internship. Your feedback is always appreciated!
 
-Feel free to connect with me on LinkedIn: [Profile](https://www.linkedin.com/in/sumitgupta150/)
+Feel free to connect with me on LinkedIn: [Sumit Gupta] (https://www.linkedin.com/in/sumitgupta150/)
 
 Happy coding! 🚀✨

@@ -50,6 +50,6 @@ Follow the steps below to get the Registration Form project up and running local
 - Other dependencies can be found in the `package.json` file.
 
 
-Feel free to connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sumitgupta150/)
+Feel free to connect with me on LinkedIn: [Sumit Gupta] (https://www.linkedin.com/in/sumitgupta150/)
 
 Happy coding! 🚀

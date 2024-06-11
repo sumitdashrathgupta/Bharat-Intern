@@ -53,6 +53,6 @@ Follow the steps below to get the Blog Website project up and running locally:
 - Other dependencies can be found in the `package.json` file.
 
 
-Feel free to connect with me on LinkedIn: [Himanshu Mohanty](https://www.linkedin.com/in/sumitgupta150/)
+Feel free to connect with me on LinkedIn: [Sumit Gupta](https://www.linkedin.com/in/sumitgupta150/)
 
 Happy coding! 🌐✨

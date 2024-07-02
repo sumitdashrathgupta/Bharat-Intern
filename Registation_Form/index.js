@@ -9,7 +9,6 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/public'));
 
-mongoose.connect('mongodb://localhost:27017/Database');
 var db = mongoose.connection;
 
 db.on('error', ()  => console.log('---FAILED to connect to Database'));
